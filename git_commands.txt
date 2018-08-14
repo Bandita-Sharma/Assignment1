@@ -1,0 +1,7 @@
+GIT COMMANDS AND THEIR FUNCTIONS:
+
+1-->  git clone "URL"  --> this is used to make a clone of the repository
+2--> git add -A           --> this command adds a change in the working directory to the staging are.
+3--> git commit -m "add a message here"     --> this command captures a snapshot of the project's currently staged changes.
+4--> git push -u origin master      -->this command will push changes from the local master branch to the remote master branch.
+5--> git status              --> this command is used to check the state of the working directory and he staging area.
